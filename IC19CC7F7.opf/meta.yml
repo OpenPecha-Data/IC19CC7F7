@@ -1,0 +1,16 @@
+id: IC19CC7F7
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:07:50.872477
+last_modified: 2023-02-08 16:07:50.872603
+source_metadata:
+  title: Tārānamaskāraikaviṃśatistotra
+  language: bo
+bases:
+  7A73:
+    base_file: 7A73.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
